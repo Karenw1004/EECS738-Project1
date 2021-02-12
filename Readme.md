@@ -1,5 +1,5 @@
 # EECS738-Project1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/EECS738-Project1/blob/main/ProbablyInterestingData.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karenw1004/EECS738-Project1/blob/main/notebooks/ProbablyInterestingData.ipynb)
 
 # Probably Interesting Data
 ## Distribution estimation
